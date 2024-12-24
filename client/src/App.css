@@ -1,0 +1,34 @@
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+input[type="file"],
+input[type="text"] {
+  padding: 10px;
+  font-size: 1em;
+  margin: 10px;
+}
+
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+canvas {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
